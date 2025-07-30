@@ -47,7 +47,8 @@ This data is ideal for:
 
 ## 📊 Data Sample
 
-https://docs.google.com/spreadsheets/d/1gdUcQnThA1QK8t19N09S-IAXmcPVbi2r6DgYFJPLSUU/edit?usp=sharing
+[![Sample Data - Google Sheet](https://www.gstatic.com/images/icons/material/system/1x/sheets_googgreen_48dp.png)](https://docs.google.com/spreadsheets/d/1gdUcQnThA1QK8t19N09S-IAXmcPVbi2r6DgYFJPLSUU/edit?usp=sharing)
+
 
 *Full data set available on request or as part of Upwork service.*
 
