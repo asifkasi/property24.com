@@ -47,11 +47,15 @@ This data is ideal for:
 
 ## 📊 Data Sample
 
+https://docs.google.com/spreadsheets/d/1gdUcQnThA1QK8t19N09S-IAXmcPVbi2r6DgYFJPLSUU/edit?usp=sharing
+
 *Full data set available on request or as part of Upwork service.*
 
 ---
 
 ## 📹 Video Demo
+
+https://www.youtube.com/watch?v=uSwQ1NsOwfQ
 
 [![Watch the demo](https://img.youtube.com/vi/uSwQ1NsOwfQ/0.jpg)](https://www.youtube.com/watch?v=uSwQ1NsOwfQ)
 
@@ -84,3 +88,11 @@ Feel free to fork this repo, raise issues, or suggest improvements. If you're a 
 ## ⭐ Like this project?
 
 Give it a ⭐ and share it with someone in **real estate**, **marketing**, or **data scraping** who would find it helpful!
+
+
+#Property24Leads #realestatemarketing  #EstateAgentsData #LeadGeneration #DataForSale #RealEstateSouthAfrica #MarketingTips #VerifiedLeads #BusinessGrowth #upworkfreelancer #GrowYourBusiness
+#ExpandYourReach #SalesSuccess #NetworkingMadeEasy #DataMarketingTips #DigitalMarketingTools #MarketingResources
+#SalesData #MarketingForRealEstate #BusinessDevelopmentIdeas
+#DataDrivenMarketing #ContactListForSale #B2BLeads #VerifiedBusinessLeads #LeadGenExperts #TargetedLeads
+#BusinessDataForSale #HighQualityLeads #LeadGenerationServices #EstateAgentContacts #RealEstateLeads #RealEstateSouthAfrica
+#PropertyMarketing #Property24Data #RealEstateSolutions #EstateAgentNetworking #SouthAfricaRealEstate #Property24Leads #RealEstateMarketing #EstateAgentsData #LeadGeneration #DataForSale #RealEstateSouthAfrica #MarketingTips #VerifiedLeads #BusinessGrowth #UpworkFreelancer
