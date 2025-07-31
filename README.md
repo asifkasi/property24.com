@@ -9,10 +9,10 @@ This project helps digital marketers, B2B service providers, and lead generation
 ## 📦 What's Included
 
 - ✅ **Verified Contact Information**
-  - Email addresses
-  - Phone numbers
-  - Agency names
-  - Location details
+  - Real Estate Agents Email addresses
+  - Real Estate Agents Phone numbers
+  - Real Estate Agency names
+  - Real Estate Location details
 
 - ✅ **Agency Descriptions**
   - Brief intro/summary from each agent profile
@@ -70,6 +70,43 @@ The video shows a step-by-step demo of the scraping process, data extraction log
 📎 [Hire Me on Upwork](https://www.upwork.com/freelancers/~0197b048247ad5f71a)
 
 📩 Or request a sample via email: **asifkasi37@gmail.com**
+
+---
+
+## 🧠 Why Property24?
+
+> Property24 is **South Africa’s largest property marketplace**, trusted by buyers and sellers alike. This dataset taps into the **Property24 agent directory** to extract valuable B2B contact data for digital marketing, real estate services, and business development.
+
+---
+
+
+## 💼 Hire Me for Custom Data Extraction
+
+Want custom datasets or scraping solutions from SaaS platforms, social media apps, or other lead generation sources?
+
+I’m **Asif Kasi**, a verified [Upwork freelancer](https://www.upwork.com/freelancers/~0197b048247ad5f71a), offering:
+- 🔍 **Targeted B2B Data Extraction**  
+- 📲 **Mobile App Scraping & Automation**  
+- 📈 **Custom Lead Generation Workflows**
+
+🔗 Hire me now on Upwork:  
+[Upwork Gig – SaaS, Instagram & App Scraping](https://www.upwork.com/services/product/development-it-instagram-profile-data-extract-email-phone-bio-media-extraction-1671434399022456832?ref=project_share)
+
+---
+
+## 🧾 License & Usage
+
+These datasets are provided **for educational, research, and lead generation purposes only**. All data was extracted from **publicly accessible sources**. Use responsibly and in compliance with data privacy laws and platform terms.
+
+---
+
+## 📬 Contact
+
+For custom projects, questions, or business inquiries:  
+📧 Email: *asifkasi37@gmail.com*  
+📍 Upwork: [Asif Kasi – Freelance Data Specialist](https://www.upwork.com/freelancers/~0197b048247ad5f71a)
+
+---
 
 ---
 
